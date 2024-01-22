@@ -14,4 +14,6 @@ Raw Content types
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
 .pkl filter=lfs diff=lfs merge=lfs -text
+C:/Users/1/Desktop/MSDE5/Deep_Learning_MODULE_7/final_project/git_hub/repo_dl_github/dog_cat_detector_model_Final_1.h5 filter=lfs diff=lfs merge=lfs -text
+dog_cat_detector_model_Final_1.h5 filter=lfs diff=lfs merge=lfs -text
 * filter=lfs diff=lfs merge=lfs -text
