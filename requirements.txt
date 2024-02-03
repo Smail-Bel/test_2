@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95ef3e53523cd316e34372dc80adbba9d0ef18852b5d74af7378f2f87e30c27c
-size 259
+numpy==1.23.5
+opencv-python==4.9.0.80
+streamlit==1.29.0
+tensorflow==2.15.0
+pillow==10.2.0
+wget==3.2.0
+
+
